@@ -1,0 +1,7 @@
+def heron_method(x): guess = x / 2
+repeats = 0
+while repeats < 3:
+repeats = repeats + 1
+ratio = x / guess
+average = (guess + ratio) / 2 guess = average
+return guess
