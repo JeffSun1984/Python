@@ -1,10 +1,6 @@
 # Python
 My all Python code
-## Basic Code
-## Quantatative Trading 
-## Algorithm
-## Time series
-## Useful code
+
 # Python Repository
 
 This repository contains all my Python code for various projects and examples.
@@ -15,6 +11,7 @@ This repository contains all my Python code for various projects and examples.
 - **Quantitative Trading:** Strategies and algorithms for trading.
 - **Algorithm:** Examples of complex algorithms in Python.
 - **Time Series:** Time series analysis scripts.
+- **Useful code：** very good use code
 
 ## Useful Resources
 
